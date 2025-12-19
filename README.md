@@ -18,3 +18,11 @@ learning the ancient craft of writing .gitignore
     </td>
   </tr>
 </table>
+
+# leetcode
+<div align="center">
+  <img 
+       src="https://leetcard.jacoblin.cool/llevttarr?theme=dark&font=Karma&animation=true" 
+       alt="LeetCode Stats" 
+  />
+</div>
