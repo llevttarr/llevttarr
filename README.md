@@ -18,7 +18,7 @@ learning the ancient craft of writing .gitignore
     </td>
   </tr>
 </table>
-
+<!--
 # leetcode
 <div align="center">
   <img 
@@ -26,3 +26,4 @@ learning the ancient craft of writing .gitignore
        alt="LeetCode Stats" 
   />
 </div>
+!-->
