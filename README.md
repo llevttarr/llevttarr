@@ -80,7 +80,7 @@ Heat conductivity simulation using various parallelism techniques
 </li>
 <li>
 
-### <img src="static/nulifie.png" width="18"> <a href="https://youtube.com/nulifie">Nulifie</a>
+### <img src="static/nulifie.png" width="18"> <a href="https://youtube.com/@nulifie">Nulifie</a>
 
 <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white">
 <img src="https://img.shields.io/badge/API-Paper-2875D7?style=flat-square&logo=openjdk&logoColor=white">
