@@ -1,9 +1,9 @@
-<h1 align="center">- whoami -</h1>
 <p align="center">
   <img src="./static/ltgif.gif" alt="llevttarr" />
 </p>
 
 > ^ GLSL
+<h1 align="center">- whoami -</h1>
 
 CS student @ UCU (3rd year)
 
