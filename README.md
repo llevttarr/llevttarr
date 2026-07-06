@@ -1,7 +1,9 @@
 <h1 align="center">- whoami -</h1>
+<p align="center">
+  <img src="./static/ltgif.gif" alt="llevttarr" />
+</p>
 
-![llevttarr](/static/ltgif.gif)
-> ^ written in GLSL, code on the readme page 
+> ^ GLSL
 
 CS student @ UCU (3rd year)
 
